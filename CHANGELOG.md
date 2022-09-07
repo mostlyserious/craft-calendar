@@ -1,5 +1,11 @@
 # Solspace Calendar Changelog
 
+## 3.3.16 - 2022-09-06
+
+### Changed
+- Added support for title translation methods.
+- Prefixed `EventQuery` class methods `count`, `one` and `all` with underscores to prevent these interferring with the `ElementQuery` class.
+
 ## 3.3.15 - 2022-08-02
 
 ### Changed
